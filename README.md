@@ -1,2 +1,2 @@
 # dk-google.dk
-WW.GOOGLE.COM
+WWW.GOOGLE.COM
